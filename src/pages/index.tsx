@@ -102,7 +102,7 @@ const Home: BlitzPage = () => {
                   <div className={styles.code}>
                     <span>2</span>
                     <pre>
-                      <code>Ctrl + c</code>
+                      <code>Hello</code>
                     </pre>
                   </div>
 
@@ -133,7 +133,7 @@ const Home: BlitzPage = () => {
                   rel="noopener noreferrer"
                   className={styles.card}
                 >
-                  Blitz Docs
+                 meow
                   <span className={styles.arrowIcon} />
                 </a>
                 <a
@@ -142,7 +142,7 @@ const Home: BlitzPage = () => {
                   rel="noopener noreferrer"
                   className={styles.card}
                 >
-                  Next.js Docs
+                  hello darkness my old friend
                   <span className={styles.arrowIcon} />
                 </a>
                 <a
