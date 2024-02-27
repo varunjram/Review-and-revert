@@ -95,21 +95,21 @@ const Home: BlitzPage = () => {
                   <div className={styles.code}>
                     <span>1</span>
                     <pre>
-                      <code>blitz generate all project name:string</code>
+                      <code>Green day</code>
                     </pre>
                   </div>
 
                   <div className={styles.code}>
                     <span>2</span>
                     <pre>
-                      <code>Ctrl + c</code>
+                      <code>Meow</code>
                     </pre>
                   </div>
 
                   <div className={styles.code}>
                     <span>3</span>
                     <pre>
-                      <code>blitz dev</code>
+                      <code>Pink Floyd</code>
                     </pre>
                   </div>
 
@@ -133,7 +133,7 @@ const Home: BlitzPage = () => {
                   rel="noopener noreferrer"
                   className={styles.card}
                 >
-                  Blitz Docs
+                  Gun n roses
                   <span className={styles.arrowIcon} />
                 </a>
                 <a
