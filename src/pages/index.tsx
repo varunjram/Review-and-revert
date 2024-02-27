@@ -133,7 +133,7 @@ const Home: BlitzPage = () => {
                   rel="noopener noreferrer"
                   className={styles.card}
                 >
-                  Gun n roses
+                  monkey d luffy
                   <span className={styles.arrowIcon} />
                 </a>
                 <a
